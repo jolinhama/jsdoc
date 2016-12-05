@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="144ce9c1-6ffb-48d2-8b8a-8af046967b92" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js" afterPath="$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js" />
+    </list>
+    <ignored path="jsdoc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jsdoc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="parser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7752">
+              <caret line="408" column="37" selection-start-line="408" selection-start-column="32" selection-end-line="408" selection-end-column="37" />
+              <folding>
+                <element signature="e#125#397#0" expanded="true" />
+                <element signature="e#237#335#0" expanded="true" />
+                <element signature="e#347#395#0" expanded="true" />
+                <element signature="e#640#670#0" expanded="true" />
+                <element signature="e#2391#2737#0" expanded="true" />
+                <element signature="e#2413#2509#0" expanded="true" />
+                <element signature="e#2528#2621#0" expanded="true" />
+                <element signature="e#2639#2731#0" expanded="true" />
+                <element signature="e#3005#3029#0" expanded="true" />
+                <element signature="e#4919#4996#0" expanded="true" />
+                <element signature="e#6264#6300#0" expanded="true" />
+                <element signature="e#6425#6501#0" expanded="true" />
+                <element signature="e#7705#7853#0" expanded="true" />
+                <element signature="e#7787#7839#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="astbuilder.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5274">
+              <caret line="125" column="3" selection-start-line="125" selection-start-column="3" selection-end-line="125" selection-end-column="3" />
+              <folding>
+                <element signature="e#59#239#0" expanded="true" />
+                <element signature="e#70#173#0" expanded="true" />
+                <element signature="e#185#237#0" expanded="true" />
+                <element signature="e#565#1153#0" expanded="true" />
+                <element signature="e#1434#1579#0" expanded="true" />
+                <element signature="e#1683#1800#0" expanded="true" />
+                <element signature="e#1895#2012#0" expanded="true" />
+                <element signature="e#2118#2212#0" expanded="true" />
+                <element signature="e#2325#2588#0" expanded="true" />
+                <element signature="e#2364#2490#0" expanded="true" />
+                <element signature="e#11535#11632#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="handlers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+              <folding>
+                <element signature="e#111#309#0" expanded="true" />
+                <element signature="e#192#243#0" expanded="true" />
+                <element signature="e#255#307#0" expanded="true" />
+                <element signature="e#6202#6266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doclet.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/doclet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="236" column="23" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#231#522#0" expanded="true" />
+                <element signature="e#306#411#0" expanded="true" />
+                <element signature="e#422#520#0" expanded="true" />
+                <element signature="e#920#985#0" expanded="true" />
+                <element signature="e#3950#4064#0" expanded="true" />
+                <element signature="e#12296#12384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="definitions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="299" column="23" selection-start-line="299" selection-start-column="23" selection-end-line="299" selection-end-column="23" />
+              <folding>
+                <element signature="e#274#568#0" expanded="true" />
+                <element signature="e#349#402#0" expanded="true" />
+                <element signature="e#413#460#0" expanded="true" />
+                <element signature="e#472#566#0" expanded="true" />
+                <element signature="e#723#777#0" expanded="true" />
+                <element signature="e#4891#5124#0" expanded="true" />
+                <element signature="e#5138#5504#0" expanded="true" />
+                <element signature="e#5517#5643#0" expanded="true" />
+                <element signature="e#6072#6229#0" expanded="true" />
+                <element signature="e#6245#6530#0" expanded="true" />
+                <element signature="e#6544#6724#0" expanded="true" />
+                <element signature="e#6819#7019#0" expanded="true" />
+                <element signature="e#7032#7814#0" expanded="true" />
+                <element signature="e#8639#8740#0" expanded="true" />
+                <element signature="e#8756#9047#0" expanded="true" />
+                <element signature="e#9065#9497#0" expanded="true" />
+                <element signature="e#9514#9644#0" expanded="true" />
+                <element signature="e#9659#10797#0" expanded="true" />
+                <element signature="e#10815#10954#0" expanded="true" />
+                <element signature="e#10973#11036#0" expanded="true" />
+                <element signature="e#11048#11255#0" expanded="true" />
+                <element signature="e#11268#11448#0" expanded="true" />
+                <element signature="e#11463#11709#0" expanded="true" />
+                <element signature="e#11724#12061#0" expanded="true" />
+                <element signature="e#12077#12526#0" expanded="true" />
+                <element signature="e#12538#12827#0" expanded="true" />
+                <element signature="e#12840#13088#0" expanded="true" />
+                <element signature="e#13104#13295#0" expanded="true" />
+                <element signature="e#13309#13494#0" expanded="true" />
+                <element signature="e#13508#13633#0" expanded="true" />
+                <element signature="e#13651#13877#0" expanded="true" />
+                <element signature="e#13895#14114#0" expanded="true" />
+                <element signature="e#14127#14234#0" expanded="true" />
+                <element signature="e#14250#14357#0" expanded="true" />
+                <element signature="e#14374#14606#0" expanded="true" />
+                <element signature="e#14618#14653#0" expanded="true" />
+                <element signature="e#14666#14837#0" expanded="true" />
+                <element signature="e#14852#14980#0" expanded="true" />
+                <element signature="e#14995#15221#0" expanded="true" />
+                <element signature="e#15235#15524#0" expanded="true" />
+                <element signature="e#15540#15991#0" expanded="true" />
+                <element signature="e#16070#16239#0" expanded="true" />
+                <element signature="e#16252#16405#0" expanded="true" />
+                <element signature="e#16419#16921#0" expanded="true" />
+                <element signature="e#16933#16968#0" expanded="true" />
+                <element signature="e#16985#17216#0" expanded="true" />
+                <element signature="e#17229#17479#0" expanded="true" />
+                <element signature="e#17494#17624#0" expanded="true" />
+                <element signature="e#17640#17914#0" expanded="true" />
+                <element signature="e#17931#18063#0" expanded="true" />
+                <element signature="e#18077#18206#0" expanded="true" />
+                <element signature="e#18222#18349#0" expanded="true" />
+                <element signature="e#18365#19110#0" expanded="true" />
+                <element signature="e#19125#19365#0" expanded="true" />
+                <element signature="e#19376#19547#0" expanded="true" />
+                <element signature="e#19560#19686#0" expanded="true" />
+                <element signature="e#19700#19807#0" expanded="true" />
+                <element signature="e#19822#19950#0" expanded="true" />
+                <element signature="e#19964#20102#0" expanded="true" />
+                <element signature="e#20114#20288#0" expanded="true" />
+                <element signature="e#20302#20554#0" expanded="true" />
+                <element signature="e#20570#20759#0" expanded="true" />
+                <element signature="e#20771#22037#0" expanded="true" />
+                <element signature="e#22052#22731#0" expanded="true" />
+                <element signature="e#22429#22550#0" expanded="true" />
+                <element signature="e#22462#22528#0" expanded="true" />
+                <element signature="e#22751#22915#0" expanded="true" />
+                <element signature="e#22932#23190#0" expanded="true" />
+                <element signature="e#23205#23333#0" expanded="true" />
+                <element signature="e#23501#25052#0" expanded="true" />
+                <element signature="e#23915#23981#0" expanded="true" />
+                <element signature="e#24111#24238#0" expanded="true" />
+                <element signature="e#24293#24535#0" expanded="true" />
+                <element signature="e#24552#24796#0" expanded="true" />
+                <element signature="e#24960#25005#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="type.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5163">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inline.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2002">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#3315#3403#0" expanded="true" />
+                <element signature="e#4035#4098#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="astnode.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astnode.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="452" column="0" selection-start-line="452" selection-start-column="0" selection-end-line="452" selection-end-column="0" />
+              <folding>
+                <element signature="e#1760#1846#0" expanded="true" />
+                <element signature="e#1934#2070#0" expanded="true" />
+                <element signature="e#2182#2327#0" expanded="true" />
+                <element signature="e#2433#2582#0" expanded="true" />
+                <element signature="e#2704#2869#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/jsdoc/src/walker.js" />
+        <option value="$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-158" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dictionary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="144ce9c1-6ffb-48d2-8b8a-8af046967b92" name="Default" comment="" />
+      <created>1480717497325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480717497325</updated>
+      <workItem from="1480717498627" duration="957000" />
+      <workItem from="1480745403074" duration="4898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5855000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-158" width="1920" height="1058" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12992546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/walker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/syntax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#3382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsdoc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/scanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/name.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6960">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#528#729#0" expanded="true" />
+            <element signature="e#954#1163#0" expanded="true" />
+            <element signature="e#967#1079#0" expanded="true" />
+            <element signature="e#1091#1161#0" expanded="true" />
+            <element signature="e#1273#1376#0" expanded="true" />
+            <element signature="e#10346#10484#0" expanded="true" />
+            <element signature="e#10999#11127#0" expanded="true" />
+            <element signature="e#11535#11573#0" expanded="true" />
+            <element signature="e#11943#12011#0" expanded="true" />
+            <element signature="e#14324#14393#0" expanded="true" />
+            <element signature="e#15187#15250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3810">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/opts/argparser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/opts/args.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="431" column="0" selection-start-line="431" selection-start-column="0" selection-end-line="431" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/walker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="595" column="42" selection-start-line="595" selection-start-column="37" selection-end-line="595" selection-end-column="42" />
+          <folding>
+            <marker date="1480717452000" expanded="true" signature="14957:15301" ph="{...}" />
+            <marker date="1480717452000" expanded="true" signature="15047:15282" ph="{...}" />
+            <marker date="1480717452000" expanded="true" signature="15109:15276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/syntax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#3382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5274">
+          <caret line="125" column="3" selection-start-line="125" selection-start-column="3" selection-end-line="125" selection-end-column="3" />
+          <folding>
+            <element signature="e#59#239#0" expanded="true" />
+            <element signature="e#70#173#0" expanded="true" />
+            <element signature="e#185#237#0" expanded="true" />
+            <element signature="e#565#1153#0" expanded="true" />
+            <element signature="e#1434#1579#0" expanded="true" />
+            <element signature="e#1683#1800#0" expanded="true" />
+            <element signature="e#1895#2012#0" expanded="true" />
+            <element signature="e#2118#2212#0" expanded="true" />
+            <element signature="e#2325#2588#0" expanded="true" />
+            <element signature="e#2364#2490#0" expanded="true" />
+            <element signature="e#11535#11632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7752">
+          <caret line="408" column="37" selection-start-line="408" selection-start-column="32" selection-end-line="408" selection-end-column="37" />
+          <folding>
+            <element signature="e#125#397#0" expanded="true" />
+            <element signature="e#237#335#0" expanded="true" />
+            <element signature="e#347#395#0" expanded="true" />
+            <element signature="e#640#670#0" expanded="true" />
+            <element signature="e#2391#2737#0" expanded="true" />
+            <element signature="e#2413#2509#0" expanded="true" />
+            <element signature="e#2528#2621#0" expanded="true" />
+            <element signature="e#2639#2731#0" expanded="true" />
+            <element signature="e#3005#3029#0" expanded="true" />
+            <element signature="e#4919#4996#0" expanded="true" />
+            <element signature="e#6264#6300#0" expanded="true" />
+            <element signature="e#6425#6501#0" expanded="true" />
+            <element signature="e#7705#7853#0" expanded="true" />
+            <element signature="e#7787#7839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+          <folding>
+            <element signature="e#111#309#0" expanded="true" />
+            <element signature="e#192#243#0" expanded="true" />
+            <element signature="e#255#307#0" expanded="true" />
+            <element signature="e#6202#6266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2002">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3315#3403#0" expanded="true" />
+            <element signature="e#4035#4098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5163">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astnode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="452" column="0" selection-start-line="452" selection-start-column="0" selection-end-line="452" selection-end-column="0" />
+          <folding>
+            <element signature="e#1760#1846#0" expanded="true" />
+            <element signature="e#1934#2070#0" expanded="true" />
+            <element signature="e#2182#2327#0" expanded="true" />
+            <element signature="e#2433#2582#0" expanded="true" />
+            <element signature="e#2704#2869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/doclet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="236" column="23" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#231#522#0" expanded="true" />
+            <element signature="e#306#411#0" expanded="true" />
+            <element signature="e#422#520#0" expanded="true" />
+            <element signature="e#920#985#0" expanded="true" />
+            <element signature="e#3950#4064#0" expanded="true" />
+            <element signature="e#12296#12384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="299" column="23" selection-start-line="299" selection-start-column="23" selection-end-line="299" selection-end-column="23" />
+          <folding>
+            <element signature="e#274#568#0" expanded="true" />
+            <element signature="e#349#402#0" expanded="true" />
+            <element signature="e#413#460#0" expanded="true" />
+            <element signature="e#472#566#0" expanded="true" />
+            <element signature="e#723#777#0" expanded="true" />
+            <element signature="e#4891#5124#0" expanded="true" />
+            <element signature="e#5138#5504#0" expanded="true" />
+            <element signature="e#5517#5643#0" expanded="true" />
+            <element signature="e#6072#6229#0" expanded="true" />
+            <element signature="e#6245#6530#0" expanded="true" />
+            <element signature="e#6544#6724#0" expanded="true" />
+            <element signature="e#6819#7019#0" expanded="true" />
+            <element signature="e#7032#7814#0" expanded="true" />
+            <element signature="e#8639#8740#0" expanded="true" />
+            <element signature="e#8756#9047#0" expanded="true" />
+            <element signature="e#9065#9497#0" expanded="true" />
+            <element signature="e#9514#9644#0" expanded="true" />
+            <element signature="e#9659#10797#0" expanded="true" />
+            <element signature="e#10815#10954#0" expanded="true" />
+            <element signature="e#10973#11036#0" expanded="true" />
+            <element signature="e#11048#11255#0" expanded="true" />
+            <element signature="e#11268#11448#0" expanded="true" />
+            <element signature="e#11463#11709#0" expanded="true" />
+            <element signature="e#11724#12061#0" expanded="true" />
+            <element signature="e#12077#12526#0" expanded="true" />
+            <element signature="e#12538#12827#0" expanded="true" />
+            <element signature="e#12840#13088#0" expanded="true" />
+            <element signature="e#13104#13295#0" expanded="true" />
+            <element signature="e#13309#13494#0" expanded="true" />
+            <element signature="e#13508#13633#0" expanded="true" />
+            <element signature="e#13651#13877#0" expanded="true" />
+            <element signature="e#13895#14114#0" expanded="true" />
+            <element signature="e#14127#14234#0" expanded="true" />
+            <element signature="e#14250#14357#0" expanded="true" />
+            <element signature="e#14374#14606#0" expanded="true" />
+            <element signature="e#14618#14653#0" expanded="true" />
+            <element signature="e#14666#14837#0" expanded="true" />
+            <element signature="e#14852#14980#0" expanded="true" />
+            <element signature="e#14995#15221#0" expanded="true" />
+            <element signature="e#15235#15524#0" expanded="true" />
+            <element signature="e#15540#15991#0" expanded="true" />
+            <element signature="e#16070#16239#0" expanded="true" />
+            <element signature="e#16252#16405#0" expanded="true" />
+            <element signature="e#16419#16921#0" expanded="true" />
+            <element signature="e#16933#16968#0" expanded="true" />
+            <element signature="e#16985#17216#0" expanded="true" />
+            <element signature="e#17229#17479#0" expanded="true" />
+            <element signature="e#17494#17624#0" expanded="true" />
+            <element signature="e#17640#17914#0" expanded="true" />
+            <element signature="e#17931#18063#0" expanded="true" />
+            <element signature="e#18077#18206#0" expanded="true" />
+            <element signature="e#18222#18349#0" expanded="true" />
+            <element signature="e#18365#19110#0" expanded="true" />
+            <element signature="e#19125#19365#0" expanded="true" />
+            <element signature="e#19376#19547#0" expanded="true" />
+            <element signature="e#19560#19686#0" expanded="true" />
+            <element signature="e#19700#19807#0" expanded="true" />
+            <element signature="e#19822#19950#0" expanded="true" />
+            <element signature="e#19964#20102#0" expanded="true" />
+            <element signature="e#20114#20288#0" expanded="true" />
+            <element signature="e#20302#20554#0" expanded="true" />
+            <element signature="e#20570#20759#0" expanded="true" />
+            <element signature="e#20771#22037#0" expanded="true" />
+            <element signature="e#22052#22731#0" expanded="true" />
+            <element signature="e#22429#22550#0" expanded="true" />
+            <element signature="e#22462#22528#0" expanded="true" />
+            <element signature="e#22751#22915#0" expanded="true" />
+            <element signature="e#22932#23190#0" expanded="true" />
+            <element signature="e#23205#23333#0" expanded="true" />
+            <element signature="e#23501#25052#0" expanded="true" />
+            <element signature="e#23915#23981#0" expanded="true" />
+            <element signature="e#24111#24238#0" expanded="true" />
+            <element signature="e#24293#24535#0" expanded="true" />
+            <element signature="e#24552#24796#0" expanded="true" />
+            <element signature="e#24960#25005#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
