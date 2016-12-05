@@ -1,3 +1,7 @@
+This is a forked repository from https://github.com/jsdoc3/jsdoc for testing & learning.
+If you need jsdoc, please visit original repository.
+----------------------
+
 JSDoc 3
 =======
 [![Build Status](https://travis-ci.org/jsdoc3/jsdoc.svg?branch=master)](http://travis-ci.org/jsdoc3/jsdoc)
