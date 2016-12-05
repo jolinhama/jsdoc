@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="144ce9c1-6ffb-48d2-8b8a-8af046967b92" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsdoc/src/handlers.js" afterPath="$PROJECT_DIR$/lib/jsdoc/src/handlers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsdoc/src/visitor.js" afterPath="$PROJECT_DIR$/lib/jsdoc/src/visitor.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js" afterPath="$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jsdoc/util/templateHelper.js" afterPath="$PROJECT_DIR$/lib/jsdoc/util/templateHelper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/publish.js" afterPath="$PROJECT_DIR$/templates/default/publish.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/tmpl/container.tmpl" afterPath="$PROJECT_DIR$/templates/default/tmpl/container.tmpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/tmpl/details.tmpl" afterPath="$PROJECT_DIR$/templates/default/tmpl/details.tmpl" />
     </list>
     <ignored path="jsdoc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,97 +30,127 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="parser.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
+      <file leaf-file-name="container.tmpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/tmpl/container.tmpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7752">
-              <caret line="408" column="37" selection-start-line="408" selection-start-column="32" selection-end-line="408" selection-end-column="37" />
+            <state relative-caret-position="3174">
+              <caret line="227" column="9" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="publish.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/publish.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
               <folding>
-                <element signature="e#125#397#0" expanded="true" />
-                <element signature="e#237#335#0" expanded="true" />
-                <element signature="e#347#395#0" expanded="true" />
-                <element signature="e#640#670#0" expanded="true" />
-                <element signature="e#2391#2737#0" expanded="true" />
-                <element signature="e#2413#2509#0" expanded="true" />
-                <element signature="e#2528#2621#0" expanded="true" />
-                <element signature="e#2639#2731#0" expanded="true" />
-                <element signature="e#3005#3029#0" expanded="true" />
-                <element signature="e#4919#4996#0" expanded="true" />
-                <element signature="e#6264#6300#0" expanded="true" />
-                <element signature="e#6425#6501#0" expanded="true" />
-                <element signature="e#7705#7853#0" expanded="true" />
-                <element signature="e#7787#7839#0" expanded="true" />
+                <element signature="e#22745#22897#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="astbuilder.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test2/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5274">
-              <caret line="125" column="3" selection-start-line="125" selection-start-column="3" selection-end-line="125" selection-end-column="3" />
+            <state relative-caret-position="3660">
+              <caret line="244" column="0" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
               <folding>
-                <element signature="e#59#239#0" expanded="true" />
-                <element signature="e#70#173#0" expanded="true" />
-                <element signature="e#185#237#0" expanded="true" />
-                <element signature="e#565#1153#0" expanded="true" />
-                <element signature="e#1434#1579#0" expanded="true" />
-                <element signature="e#1683#1800#0" expanded="true" />
-                <element signature="e#1895#2012#0" expanded="true" />
-                <element signature="e#2118#2212#0" expanded="true" />
-                <element signature="e#2325#2588#0" expanded="true" />
-                <element signature="e#2364#2490#0" expanded="true" />
-                <element signature="e#11535#11632#0" expanded="true" />
+                <element signature="e#4692#5667#0" expanded="true" />
+                <element signature="e#6360#6472#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="handlers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
+      <file leaf-file-name="test2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2/test2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding>
-                <element signature="e#111#309#0" expanded="true" />
-                <element signature="e#192#243#0" expanded="true" />
-                <element signature="e#255#307#0" expanded="true" />
-                <element signature="e#6202#6266#0" expanded="true" />
+                <element signature="e#459#611#0" expanded="true" />
+                <element signature="e#535#600#0" expanded="true" />
+                <element signature="e#789#1422#0" expanded="true" />
+                <element signature="e#1601#1881#0" expanded="true" />
+                <element signature="e#2070#2463#0" expanded="true" />
+                <element signature="e#2116#2459#0" expanded="true" />
+                <element signature="e#5095#5212#0" expanded="true" />
+                <element signature="e#5240#6302#0" expanded="true" />
+                <element signature="e#5712#5805#0" expanded="true" />
+                <element signature="e#6722#6875#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doclet.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/doclet.js">
+      <file leaf-file-name="method.tmpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/tmpl/method.tmpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="236" column="23" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="23" />
+            <state relative-caret-position="345">
+              <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.tmpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/tmpl/details.tmpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templateHelper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/util/templateHelper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="334" column="3" selection-start-line="334" selection-start-column="3" selection-end-line="334" selection-end-column="3" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#231#522#0" expanded="true" />
-                <element signature="e#306#411#0" expanded="true" />
-                <element signature="e#422#520#0" expanded="true" />
-                <element signature="e#920#985#0" expanded="true" />
-                <element signature="e#3950#4064#0" expanded="true" />
-                <element signature="e#12296#12384#0" expanded="true" />
+                <element signature="e#879#1025#0" expanded="true" />
+                <element signature="e#1068#1108#0" expanded="true" />
+                <element signature="e#7304#7395#0" expanded="true" />
+                <element signature="e#11764#11862#0" expanded="true" />
+                <element signature="e#12912#12978#0" expanded="true" />
+                <element signature="e#16288#16364#0" expanded="true" />
+                <element signature="e#16894#16974#0" expanded="true" />
+                <element signature="e#17267#17398#0" expanded="true" />
+                <element signature="e#18809#19693#0" expanded="true" />
+                <element signature="e#18987#19107#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="definitions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="walker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/walker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6990">
+              <caret line="585" column="17" selection-start-line="585" selection-start-column="17" selection-end-line="585" selection-end-column="17" />
+              <folding>
+                <element signature="e#14178#14251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="definitions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="299" column="23" selection-start-line="299" selection-start-column="23" selection-end-line="299" selection-end-column="23" />
+            <state relative-caret-position="187">
+              <caret line="92" column="3" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
               <folding>
                 <element signature="e#274#568#0" expanded="true" />
                 <element signature="e#349#402#0" expanded="true" />
                 <element signature="e#413#460#0" expanded="true" />
                 <element signature="e#472#566#0" expanded="true" />
                 <element signature="e#723#777#0" expanded="true" />
+                <element signature="e#4875#28158#0" expanded="true" />
                 <element signature="e#4891#5124#0" expanded="true" />
                 <element signature="e#5138#5504#0" expanded="true" />
                 <element signature="e#5517#5643#0" expanded="true" />
@@ -122,128 +159,89 @@
                 <element signature="e#6544#6724#0" expanded="true" />
                 <element signature="e#6819#7019#0" expanded="true" />
                 <element signature="e#7032#7814#0" expanded="true" />
-                <element signature="e#8639#8740#0" expanded="true" />
-                <element signature="e#8756#9047#0" expanded="true" />
-                <element signature="e#9065#9497#0" expanded="true" />
-                <element signature="e#9514#9644#0" expanded="true" />
-                <element signature="e#9659#10797#0" expanded="true" />
-                <element signature="e#10815#10954#0" expanded="true" />
-                <element signature="e#10973#11036#0" expanded="true" />
-                <element signature="e#11048#11255#0" expanded="true" />
-                <element signature="e#11268#11448#0" expanded="true" />
-                <element signature="e#11463#11709#0" expanded="true" />
-                <element signature="e#11724#12061#0" expanded="true" />
-                <element signature="e#12077#12526#0" expanded="true" />
-                <element signature="e#12538#12827#0" expanded="true" />
-                <element signature="e#12840#13088#0" expanded="true" />
-                <element signature="e#13104#13295#0" expanded="true" />
-                <element signature="e#13309#13494#0" expanded="true" />
-                <element signature="e#13508#13633#0" expanded="true" />
-                <element signature="e#13651#13877#0" expanded="true" />
-                <element signature="e#13895#14114#0" expanded="true" />
-                <element signature="e#14127#14234#0" expanded="true" />
-                <element signature="e#14250#14357#0" expanded="true" />
-                <element signature="e#14374#14606#0" expanded="true" />
-                <element signature="e#14618#14653#0" expanded="true" />
-                <element signature="e#14666#14837#0" expanded="true" />
-                <element signature="e#14852#14980#0" expanded="true" />
-                <element signature="e#14995#15221#0" expanded="true" />
-                <element signature="e#15235#15524#0" expanded="true" />
-                <element signature="e#15540#15991#0" expanded="true" />
-                <element signature="e#16070#16239#0" expanded="true" />
-                <element signature="e#16252#16405#0" expanded="true" />
-                <element signature="e#16419#16921#0" expanded="true" />
-                <element signature="e#16933#16968#0" expanded="true" />
-                <element signature="e#16985#17216#0" expanded="true" />
-                <element signature="e#17229#17479#0" expanded="true" />
-                <element signature="e#17494#17624#0" expanded="true" />
-                <element signature="e#17640#17914#0" expanded="true" />
-                <element signature="e#17931#18063#0" expanded="true" />
-                <element signature="e#18077#18206#0" expanded="true" />
-                <element signature="e#18222#18349#0" expanded="true" />
-                <element signature="e#18365#19110#0" expanded="true" />
-                <element signature="e#19125#19365#0" expanded="true" />
-                <element signature="e#19376#19547#0" expanded="true" />
-                <element signature="e#19560#19686#0" expanded="true" />
-                <element signature="e#19700#19807#0" expanded="true" />
-                <element signature="e#19822#19950#0" expanded="true" />
-                <element signature="e#19964#20102#0" expanded="true" />
-                <element signature="e#20114#20288#0" expanded="true" />
-                <element signature="e#20302#20554#0" expanded="true" />
-                <element signature="e#20570#20759#0" expanded="true" />
-                <element signature="e#20771#22037#0" expanded="true" />
-                <element signature="e#22052#22731#0" expanded="true" />
-                <element signature="e#22429#22550#0" expanded="true" />
-                <element signature="e#22462#22528#0" expanded="true" />
-                <element signature="e#22751#22915#0" expanded="true" />
-                <element signature="e#22932#23190#0" expanded="true" />
-                <element signature="e#23205#23333#0" expanded="true" />
-                <element signature="e#23501#25052#0" expanded="true" />
-                <element signature="e#23915#23981#0" expanded="true" />
-                <element signature="e#24111#24238#0" expanded="true" />
-                <element signature="e#24293#24535#0" expanded="true" />
-                <element signature="e#24552#24796#0" expanded="true" />
-                <element signature="e#24960#25005#0" expanded="true" />
+                <element signature="e#7831#8621#0" expanded="true" />
+                <element signature="e#8637#9423#0" expanded="true" />
+                <element signature="e#9439#10227#0" expanded="true" />
+                <element signature="e#10242#11028#0" expanded="true" />
+                <element signature="e#11042#11826#0" expanded="true" />
+                <element signature="e#11843#12633#0" expanded="true" />
+                <element signature="e#12651#13443#0" expanded="true" />
+                <element signature="e#13462#13563#0" expanded="true" />
+                <element signature="e#13579#13870#0" expanded="true" />
+                <element signature="e#13888#14320#0" expanded="true" />
+                <element signature="e#14337#14467#0" expanded="true" />
+                <element signature="e#14482#15620#0" expanded="true" />
+                <element signature="e#15638#15777#0" expanded="true" />
+                <element signature="e#15796#15859#0" expanded="true" />
+                <element signature="e#15871#16078#0" expanded="true" />
+                <element signature="e#16091#16271#0" expanded="true" />
+                <element signature="e#16286#16532#0" expanded="true" />
+                <element signature="e#16547#16884#0" expanded="true" />
+                <element signature="e#16900#17349#0" expanded="true" />
+                <element signature="e#17361#17650#0" expanded="true" />
+                <element signature="e#17663#17911#0" expanded="true" />
+                <element signature="e#17927#18118#0" expanded="true" />
+                <element signature="e#18132#18317#0" expanded="true" />
+                <element signature="e#18331#18456#0" expanded="true" />
+                <element signature="e#18474#18700#0" expanded="true" />
+                <element signature="e#18718#18937#0" expanded="true" />
+                <element signature="e#18950#19057#0" expanded="true" />
+                <element signature="e#19073#19180#0" expanded="true" />
+                <element signature="e#19197#19429#0" expanded="true" />
+                <element signature="e#19441#19476#0" expanded="true" />
+                <element signature="e#19489#19660#0" expanded="true" />
+                <element signature="e#19675#19803#0" expanded="true" />
+                <element signature="e#19818#20044#0" expanded="true" />
+                <element signature="e#20058#20347#0" expanded="true" />
+                <element signature="e#20363#20814#0" expanded="true" />
+                <element signature="e#20893#21062#0" expanded="true" />
+                <element signature="e#21075#21228#0" expanded="true" />
+                <element signature="e#21242#21744#0" expanded="true" />
+                <element signature="e#21756#21791#0" expanded="true" />
+                <element signature="e#21808#22039#0" expanded="true" />
+                <element signature="e#22052#22302#0" expanded="true" />
+                <element signature="e#22317#22447#0" expanded="true" />
+                <element signature="e#22463#22737#0" expanded="true" />
+                <element signature="e#22754#22886#0" expanded="true" />
+                <element signature="e#22900#23029#0" expanded="true" />
+                <element signature="e#23045#23172#0" expanded="true" />
+                <element signature="e#23188#23933#0" expanded="true" />
+                <element signature="e#23948#24188#0" expanded="true" />
+                <element signature="e#24199#24370#0" expanded="true" />
+                <element signature="e#24383#24509#0" expanded="true" />
+                <element signature="e#24523#24630#0" expanded="true" />
+                <element signature="e#24645#24773#0" expanded="true" />
+                <element signature="e#24787#24925#0" expanded="true" />
+                <element signature="e#24937#25111#0" expanded="true" />
+                <element signature="e#25125#25377#0" expanded="true" />
+                <element signature="e#25393#25582#0" expanded="true" />
+                <element signature="e#25594#26860#0" expanded="true" />
+                <element signature="e#26875#27554#0" expanded="true" />
+                <element signature="e#27252#27373#0" expanded="true" />
+                <element signature="e#27285#27351#0" expanded="true" />
+                <element signature="e#27574#27738#0" expanded="true" />
+                <element signature="e#27755#28013#0" expanded="true" />
+                <element signature="e#28028#28156#0" expanded="true" />
+                <element signature="e#28324#29875#0" expanded="true" />
+                <element signature="e#28738#28804#0" expanded="true" />
+                <element signature="e#28934#29061#0" expanded="true" />
+                <element signature="e#29116#29358#0" expanded="true" />
+                <element signature="e#29375#29619#0" expanded="true" />
+                <element signature="e#29783#29828#0" expanded="true" />
+                <marker date="1480970353000" expanded="true" signature="21338:21738" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="type.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
+      <file leaf-file-name="doclet.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/jsdoc/doclet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5163">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inline.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2002">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="196">
+              <caret line="237" column="0" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
               <folding>
-                <element signature="e#3315#3403#0" expanded="true" />
-                <element signature="e#4035#4098#0" expanded="true" />
+                <marker date="1480973940000" expanded="true" signature="6836:7158" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="astnode.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astnode.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="452" column="0" selection-start-line="452" selection-start-column="0" selection-end-line="452" selection-end-column="0" />
-              <folding>
-                <element signature="e#1760#1846#0" expanded="true" />
-                <element signature="e#1934#2070#0" expanded="true" />
-                <element signature="e#2182#2327#0" expanded="true" />
-                <element signature="e#2433#2582#0" expanded="true" />
-                <element signature="e#2704#2869#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/filter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -257,7 +255,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/jsdoc/src/walker.js" />
+        <option value="$PROJECT_DIR$/lib/jsdoc/src/visitor.js" />
+        <option value="$PROJECT_DIR$/lib/jsdoc/src/handlers.js" />
+        <option value="$PROJECT_DIR$/templates/default/tmpl/details.tmpl" />
+        <option value="$PROJECT_DIR$/templates/default/tmpl/container.tmpl" />
+        <option value="$PROJECT_DIR$/templates/default/publish.js" />
+        <option value="$PROJECT_DIR$/lib/jsdoc/util/templateHelper.js" />
         <option value="$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js" />
+        <option value="$PROJECT_DIR$/lib/jsdoc/doclet.js" />
+        <option value="$PROJECT_DIR$/test2/test2.js" />
+        <option value="$PROJECT_DIR$/test2/test.js" />
       </list>
     </option>
   </component>
@@ -267,8 +274,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
+    <option name="x" value="1441" />
     <option name="y" value="-158" />
     <option name="width" value="1920" />
     <option name="height" value="1058" />
@@ -298,7 +308,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -329,11 +338,137 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="silent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="haruki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsdoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -431,17 +566,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bizflowproject" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.Debug">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -540,7 +676,11 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/jsdoc.js" application-parameters="-c /Uses/jolinhama/repo/bizflowproject/app/common/jsdoc.conf.json ." working-dir="$PROJECT_DIR$/../bizflowproject/app/common">
+      <profiling v8-profiler-path="" />
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling v8-profiler-path="" />
+      </EXTENSION>
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -552,6 +692,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -574,6 +720,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="Debug" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="jsdoc.js" application-parameters="-r /Users/jolinhama/repo/jsdoc/test2/test.js" working-dir="$PROJECT_DIR$">
+      <profiling v8-profiler-path="" />
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling v8-profiler-path="" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Debug" />
+    </list>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -595,16 +751,19 @@
       <option name="presentableId" value="Default" />
       <updated>1480717497325</updated>
       <workItem from="1480717498627" duration="957000" />
-      <workItem from="1480745403074" duration="4898000" />
+      <workItem from="1480745403074" duration="10107000" />
+      <workItem from="1480887805392" duration="8190000" />
+      <workItem from="1480953834194" duration="888000" />
+      <workItem from="1480969312364" duration="9114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5855000" />
+    <option name="totallyTimeSpent" value="29256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-158" width="1920" height="1058" extended-state="6" />
-    <editor active="false" />
+    <frame x="1441" y="-158" width="1920" height="1058" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -612,22 +771,22 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32815734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12992546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1687966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36335403" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -642,107 +801,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/jsdoc/name.js</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="21" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/walker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/syntax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding>
-            <element signature="e#46#3382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsdoc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1005">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/jsdoc/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -750,55 +822,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/scanner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-570">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/jsdoc/fs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1485">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/name.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6960">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#528#729#0" expanded="true" />
-            <element signature="e#954#1163#0" expanded="true" />
-            <element signature="e#967#1079#0" expanded="true" />
-            <element signature="e#1091#1161#0" expanded="true" />
-            <element signature="e#1273#1376#0" expanded="true" />
-            <element signature="e#10346#10484#0" expanded="true" />
-            <element signature="e#10999#11127#0" expanded="true" />
-            <element signature="e#11535#11573#0" expanded="true" />
-            <element signature="e#11943#12011#0" expanded="true" />
-            <element signature="e#14324#14393#0" expanded="true" />
-            <element signature="e#15187#15250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-570">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3810">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +862,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -849,7 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="11" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -857,72 +878,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="431" column="0" selection-start-line="431" selection-start-column="0" selection-end-line="431" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsdoc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astnode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/augment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="548" column="0" selection-start-line="548" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/borrow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4230">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/example.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/walker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="595" column="42" selection-start-line="595" selection-start-column="37" selection-end-line="595" selection-end-column="42" />
-          <folding>
-            <marker date="1480717452000" expanded="true" signature="14957:15301" ph="{...}" />
-            <marker date="1480717452000" expanded="true" signature="15047:15282" ph="{...}" />
-            <marker date="1480717452000" expanded="true" signature="15109:15276" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/syntax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding>
-            <element signature="e#46#3382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5274">
-          <caret line="125" column="3" selection-start-line="125" selection-start-column="3" selection-end-line="125" selection-end-column="3" />
-          <folding>
-            <element signature="e#59#239#0" expanded="true" />
-            <element signature="e#70#173#0" expanded="true" />
-            <element signature="e#185#237#0" expanded="true" />
-            <element signature="e#565#1153#0" expanded="true" />
-            <element signature="e#1434#1579#0" expanded="true" />
-            <element signature="e#1683#1800#0" expanded="true" />
-            <element signature="e#1895#2012#0" expanded="true" />
-            <element signature="e#2118#2212#0" expanded="true" />
-            <element signature="e#2325#2588#0" expanded="true" />
-            <element signature="e#2364#2490#0" expanded="true" />
-            <element signature="e#11535#11632#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7752">
-          <caret line="408" column="37" selection-start-line="408" selection-start-column="32" selection-end-line="408" selection-end-column="37" />
-          <folding>
-            <element signature="e#125#397#0" expanded="true" />
-            <element signature="e#237#335#0" expanded="true" />
-            <element signature="e#347#395#0" expanded="true" />
-            <element signature="e#640#670#0" expanded="true" />
-            <element signature="e#2391#2737#0" expanded="true" />
-            <element signature="e#2413#2509#0" expanded="true" />
-            <element signature="e#2528#2621#0" expanded="true" />
-            <element signature="e#2639#2731#0" expanded="true" />
-            <element signature="e#3005#3029#0" expanded="true" />
-            <element signature="e#4919#4996#0" expanded="true" />
-            <element signature="e#6264#6300#0" expanded="true" />
-            <element signature="e#6425#6501#0" expanded="true" />
-            <element signature="e#7705#7853#0" expanded="true" />
-            <element signature="e#7787#7839#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,39 +970,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/tv4/try/ace/mode-ftl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
-          <folding>
-            <element signature="e#111#309#0" expanded="true" />
-            <element signature="e#192#243#0" expanded="true" />
-            <element signature="e#255#307#0" expanded="true" />
-            <element signature="e#6202#6266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/inline.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2002">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3315#3403#0" expanded="true" />
-            <element signature="e#4035#4098#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/type.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5163">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="203">
+          <caret line="152" column="8" selection-start-line="152" selection-start-column="8" selection-end-line="152" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/validator.js">
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/name.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-558">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astbuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="177" column="2" selection-start-line="177" selection-start-column="2" selection-end-line="177" selection-end-column="2" />
+          <folding>
+            <element signature="e#59#239#0" expanded="false" />
+            <element signature="e#70#173#0" expanded="false" />
+            <element signature="e#185#237#0" expanded="false" />
+            <element signature="e#565#1153#0" expanded="false" />
+            <element signature="e#1434#1579#0" expanded="false" />
+            <element signature="e#1683#1800#0" expanded="false" />
+            <element signature="e#1895#2012#0" expanded="false" />
+            <element signature="e#2118#2212#0" expanded="false" />
+            <element signature="e#2325#2588#0" expanded="false" />
+            <element signature="e#2364#2490#0" expanded="false" />
+            <element signature="e#11535#11632#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cli.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/augments.tmpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -974,46 +1030,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/astnode.js">
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/layout.tmpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="452" column="0" selection-start-line="452" selection-start-column="0" selection-end-line="452" selection-end-column="0" />
+        <state relative-caret-position="318">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/mainpage.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/members.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/params.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/properties.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/returns.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/source.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/tutorial.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/type.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/handlers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4860">
+          <caret line="336" column="3" selection-start-line="336" selection-start-column="3" selection-end-line="336" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/scanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/syntax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding>
-            <element signature="e#1760#1846#0" expanded="true" />
-            <element signature="e#1934#2070#0" expanded="true" />
-            <element signature="e#2182#2327#0" expanded="true" />
-            <element signature="e#2433#2582#0" expanded="true" />
-            <element signature="e#2704#2869#0" expanded="true" />
+            <element signature="e#46#3382#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/visitor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3494">
+          <caret line="373" column="0" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/src/walker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6990">
+          <caret line="585" column="17" selection-start-line="585" selection-start-column="17" selection-end-line="585" selection-end-column="17" />
+          <folding>
+            <element signature="e#14178#14251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jsdoc/doclet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="236" column="23" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="23" />
+        <state relative-caret-position="196">
+          <caret line="237" column="0" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#231#522#0" expanded="true" />
-            <element signature="e#306#411#0" expanded="true" />
-            <element signature="e#422#520#0" expanded="true" />
-            <element signature="e#920#985#0" expanded="true" />
-            <element signature="e#3950#4064#0" expanded="true" />
-            <element signature="e#12296#12384#0" expanded="true" />
+            <marker date="1480973940000" expanded="true" signature="6836:7158" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/container.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3174">
+          <caret line="227" column="9" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/jsdoc/tag/dictionary/definitions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="299" column="23" selection-start-line="299" selection-start-column="23" selection-end-line="299" selection-end-column="23" />
+        <state relative-caret-position="187">
+          <caret line="92" column="3" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
           <folding>
             <element signature="e#274#568#0" expanded="true" />
             <element signature="e#349#402#0" expanded="true" />
             <element signature="e#413#460#0" expanded="true" />
             <element signature="e#472#566#0" expanded="true" />
             <element signature="e#723#777#0" expanded="true" />
+            <element signature="e#4875#28158#0" expanded="true" />
             <element signature="e#4891#5124#0" expanded="true" />
             <element signature="e#5138#5504#0" expanded="true" />
             <element signature="e#5517#5643#0" expanded="true" />
@@ -1022,68 +1191,151 @@
             <element signature="e#6544#6724#0" expanded="true" />
             <element signature="e#6819#7019#0" expanded="true" />
             <element signature="e#7032#7814#0" expanded="true" />
-            <element signature="e#8639#8740#0" expanded="true" />
-            <element signature="e#8756#9047#0" expanded="true" />
-            <element signature="e#9065#9497#0" expanded="true" />
-            <element signature="e#9514#9644#0" expanded="true" />
-            <element signature="e#9659#10797#0" expanded="true" />
-            <element signature="e#10815#10954#0" expanded="true" />
-            <element signature="e#10973#11036#0" expanded="true" />
-            <element signature="e#11048#11255#0" expanded="true" />
-            <element signature="e#11268#11448#0" expanded="true" />
-            <element signature="e#11463#11709#0" expanded="true" />
-            <element signature="e#11724#12061#0" expanded="true" />
-            <element signature="e#12077#12526#0" expanded="true" />
-            <element signature="e#12538#12827#0" expanded="true" />
-            <element signature="e#12840#13088#0" expanded="true" />
-            <element signature="e#13104#13295#0" expanded="true" />
-            <element signature="e#13309#13494#0" expanded="true" />
-            <element signature="e#13508#13633#0" expanded="true" />
-            <element signature="e#13651#13877#0" expanded="true" />
-            <element signature="e#13895#14114#0" expanded="true" />
-            <element signature="e#14127#14234#0" expanded="true" />
-            <element signature="e#14250#14357#0" expanded="true" />
-            <element signature="e#14374#14606#0" expanded="true" />
-            <element signature="e#14618#14653#0" expanded="true" />
-            <element signature="e#14666#14837#0" expanded="true" />
-            <element signature="e#14852#14980#0" expanded="true" />
-            <element signature="e#14995#15221#0" expanded="true" />
-            <element signature="e#15235#15524#0" expanded="true" />
-            <element signature="e#15540#15991#0" expanded="true" />
-            <element signature="e#16070#16239#0" expanded="true" />
-            <element signature="e#16252#16405#0" expanded="true" />
-            <element signature="e#16419#16921#0" expanded="true" />
-            <element signature="e#16933#16968#0" expanded="true" />
-            <element signature="e#16985#17216#0" expanded="true" />
-            <element signature="e#17229#17479#0" expanded="true" />
-            <element signature="e#17494#17624#0" expanded="true" />
-            <element signature="e#17640#17914#0" expanded="true" />
-            <element signature="e#17931#18063#0" expanded="true" />
-            <element signature="e#18077#18206#0" expanded="true" />
-            <element signature="e#18222#18349#0" expanded="true" />
-            <element signature="e#18365#19110#0" expanded="true" />
-            <element signature="e#19125#19365#0" expanded="true" />
-            <element signature="e#19376#19547#0" expanded="true" />
-            <element signature="e#19560#19686#0" expanded="true" />
-            <element signature="e#19700#19807#0" expanded="true" />
-            <element signature="e#19822#19950#0" expanded="true" />
-            <element signature="e#19964#20102#0" expanded="true" />
-            <element signature="e#20114#20288#0" expanded="true" />
-            <element signature="e#20302#20554#0" expanded="true" />
-            <element signature="e#20570#20759#0" expanded="true" />
-            <element signature="e#20771#22037#0" expanded="true" />
-            <element signature="e#22052#22731#0" expanded="true" />
-            <element signature="e#22429#22550#0" expanded="true" />
-            <element signature="e#22462#22528#0" expanded="true" />
-            <element signature="e#22751#22915#0" expanded="true" />
-            <element signature="e#22932#23190#0" expanded="true" />
-            <element signature="e#23205#23333#0" expanded="true" />
-            <element signature="e#23501#25052#0" expanded="true" />
-            <element signature="e#23915#23981#0" expanded="true" />
-            <element signature="e#24111#24238#0" expanded="true" />
-            <element signature="e#24293#24535#0" expanded="true" />
-            <element signature="e#24552#24796#0" expanded="true" />
-            <element signature="e#24960#25005#0" expanded="true" />
+            <element signature="e#7831#8621#0" expanded="true" />
+            <element signature="e#8637#9423#0" expanded="true" />
+            <element signature="e#9439#10227#0" expanded="true" />
+            <element signature="e#10242#11028#0" expanded="true" />
+            <element signature="e#11042#11826#0" expanded="true" />
+            <element signature="e#11843#12633#0" expanded="true" />
+            <element signature="e#12651#13443#0" expanded="true" />
+            <element signature="e#13462#13563#0" expanded="true" />
+            <element signature="e#13579#13870#0" expanded="true" />
+            <element signature="e#13888#14320#0" expanded="true" />
+            <element signature="e#14337#14467#0" expanded="true" />
+            <element signature="e#14482#15620#0" expanded="true" />
+            <element signature="e#15638#15777#0" expanded="true" />
+            <element signature="e#15796#15859#0" expanded="true" />
+            <element signature="e#15871#16078#0" expanded="true" />
+            <element signature="e#16091#16271#0" expanded="true" />
+            <element signature="e#16286#16532#0" expanded="true" />
+            <element signature="e#16547#16884#0" expanded="true" />
+            <element signature="e#16900#17349#0" expanded="true" />
+            <element signature="e#17361#17650#0" expanded="true" />
+            <element signature="e#17663#17911#0" expanded="true" />
+            <element signature="e#17927#18118#0" expanded="true" />
+            <element signature="e#18132#18317#0" expanded="true" />
+            <element signature="e#18331#18456#0" expanded="true" />
+            <element signature="e#18474#18700#0" expanded="true" />
+            <element signature="e#18718#18937#0" expanded="true" />
+            <element signature="e#18950#19057#0" expanded="true" />
+            <element signature="e#19073#19180#0" expanded="true" />
+            <element signature="e#19197#19429#0" expanded="true" />
+            <element signature="e#19441#19476#0" expanded="true" />
+            <element signature="e#19489#19660#0" expanded="true" />
+            <element signature="e#19675#19803#0" expanded="true" />
+            <element signature="e#19818#20044#0" expanded="true" />
+            <element signature="e#20058#20347#0" expanded="true" />
+            <element signature="e#20363#20814#0" expanded="true" />
+            <element signature="e#20893#21062#0" expanded="true" />
+            <element signature="e#21075#21228#0" expanded="true" />
+            <element signature="e#21242#21744#0" expanded="true" />
+            <element signature="e#21756#21791#0" expanded="true" />
+            <element signature="e#21808#22039#0" expanded="true" />
+            <element signature="e#22052#22302#0" expanded="true" />
+            <element signature="e#22317#22447#0" expanded="true" />
+            <element signature="e#22463#22737#0" expanded="true" />
+            <element signature="e#22754#22886#0" expanded="true" />
+            <element signature="e#22900#23029#0" expanded="true" />
+            <element signature="e#23045#23172#0" expanded="true" />
+            <element signature="e#23188#23933#0" expanded="true" />
+            <element signature="e#23948#24188#0" expanded="true" />
+            <element signature="e#24199#24370#0" expanded="true" />
+            <element signature="e#24383#24509#0" expanded="true" />
+            <element signature="e#24523#24630#0" expanded="true" />
+            <element signature="e#24645#24773#0" expanded="true" />
+            <element signature="e#24787#24925#0" expanded="true" />
+            <element signature="e#24937#25111#0" expanded="true" />
+            <element signature="e#25125#25377#0" expanded="true" />
+            <element signature="e#25393#25582#0" expanded="true" />
+            <element signature="e#25594#26860#0" expanded="true" />
+            <element signature="e#26875#27554#0" expanded="true" />
+            <element signature="e#27252#27373#0" expanded="true" />
+            <element signature="e#27285#27351#0" expanded="true" />
+            <element signature="e#27574#27738#0" expanded="true" />
+            <element signature="e#27755#28013#0" expanded="true" />
+            <element signature="e#28028#28156#0" expanded="true" />
+            <element signature="e#28324#29875#0" expanded="true" />
+            <element signature="e#28738#28804#0" expanded="true" />
+            <element signature="e#28934#29061#0" expanded="true" />
+            <element signature="e#29116#29358#0" expanded="true" />
+            <element signature="e#29375#29619#0" expanded="true" />
+            <element signature="e#29783#29828#0" expanded="true" />
+            <marker date="1480970353000" expanded="true" signature="21338:21738" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jsdoc/util/templateHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="334" column="3" selection-start-line="334" selection-start-column="3" selection-end-line="334" selection-end-column="3" />
+          <folding>
+            <element signature="e#879#1025#0" expanded="true" />
+            <element signature="e#1068#1108#0" expanded="true" />
+            <element signature="e#7304#7395#0" expanded="true" />
+            <element signature="e#11764#11862#0" expanded="true" />
+            <element signature="e#12912#12978#0" expanded="true" />
+            <element signature="e#16288#16364#0" expanded="true" />
+            <element signature="e#16894#16974#0" expanded="true" />
+            <element signature="e#17267#17398#0" expanded="true" />
+            <element signature="e#18809#19693#0" expanded="true" />
+            <element signature="e#18987#19107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/publish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
+          <folding>
+            <element signature="e#22745#22897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/details.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#459#611#0" expanded="true" />
+            <element signature="e#535#600#0" expanded="true" />
+            <element signature="e#789#1422#0" expanded="true" />
+            <element signature="e#1601#1881#0" expanded="true" />
+            <element signature="e#2070#2463#0" expanded="true" />
+            <element signature="e#2116#2459#0" expanded="true" />
+            <element signature="e#5095#5212#0" expanded="true" />
+            <element signature="e#5240#6302#0" expanded="true" />
+            <element signature="e#5712#5805#0" expanded="true" />
+            <element signature="e#6722#6875#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/tmpl/method.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="244" column="0" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+          <folding>
+            <element signature="e#4692#5667#0" expanded="true" />
+            <element signature="e#6360#6472#0" expanded="true" />
           </folding>
         </state>
       </provider>

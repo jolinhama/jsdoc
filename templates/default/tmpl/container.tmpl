@@ -52,6 +52,20 @@
         <?js }) ?>
     <?js } else if (doc.kind === 'class') { ?>
         <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'directive') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'service') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'component') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'provider') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'factory') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'filter') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
+    <?js } else if (doc.kind === 'controller') { ?>
+        <?js= self.partial('method.tmpl', doc) ?>
     <?js } else { ?>
         <?js if (doc.description) { ?>
             <div class="description"><?js= doc.description ?></div>
@@ -85,6 +99,90 @@
         if (!isGlobalPage && classes && classes.length) {
     ?>
         <h3 class="subsection-title">Classes</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'directive', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Directive</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'service', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Service</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'provider', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Provider</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'factory', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Factory</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'filter', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Filter</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'component', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Component</h3>
+
+        <dl><?js classes.forEach(function(c) { ?>
+            <dt><?js= self.linkto(c.longname, c.name) ?></dt>
+            <dd><?js if (c.summary) { ?><?js= c.summary ?><?js } ?></dd>
+        <?js }); ?></dl>
+    <?js } ?>
+
+    <?js
+        var classes = self.find({kind: 'controller', memberof: doc.longname});
+        if (!isGlobalPage && classes && classes.length) {
+    ?>
+        <h3 class="subsection-title">Controller</h3>
 
         <dl><?js classes.forEach(function(c) { ?>
             <dt><?js= self.linkto(c.longname, c.name) ?></dt>

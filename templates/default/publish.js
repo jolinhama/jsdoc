@@ -356,6 +356,14 @@ function buildNav(members) {
     nav += buildMemberNav(members.tutorials, 'Tutorials', seenTutorials, linktoTutorial);
     nav += buildMemberNav(members.interfaces, 'Interfaces', seen, linkto);
 
+    nav += buildMemberNav(members.directives, 'Directives', seen, linkto);
+    nav += buildMemberNav(members.services, 'Services', seen, linkto);
+    nav += buildMemberNav(members.providers, 'Providers', seen, linkto);
+    nav += buildMemberNav(members.factories, 'Factories', seen, linkto);
+    nav += buildMemberNav(members.filters, 'Filters', seen, linkto);
+    nav += buildMemberNav(members.components, 'Components', seen, linkto);
+    nav += buildMemberNav(members.controllers, 'Controllers', seen, linkto);
+
     if (members.globals.length) {
         var globalNav = '';
 
@@ -593,6 +601,14 @@ exports.publish = function(taffyData, opts, tutorials) {
     var externals = taffy(members.externals);
     var interfaces = taffy(members.interfaces);
 
+    var directives = taffy(members.directives);
+    var services = taffy(members.services);
+    var providers = taffy(members.providers);
+    var factories = taffy(members.factories);
+    var filters = taffy(members.filters);
+    var components = taffy(members.components);
+    var controllers = taffy(members.controllers);
+
     Object.keys(helper.longnameToUrl).forEach(function(longname) {
         var myModules = helper.find(modules, {longname: longname});
         if (myModules.length) {
@@ -623,6 +639,42 @@ exports.publish = function(taffyData, opts, tutorials) {
         if (myInterfaces.length) {
             generate('Interface: ' + myInterfaces[0].name, myInterfaces, helper.longnameToUrl[longname]);
         }
+
+        var myDirectives = helper.find(directives, {longname: longname});
+        if (myDirectives.length) {
+            generate('Directive: ' + myDirectives[0].name, myDirectives, helper.longnameToUrl[longname]);
+        }
+
+        var myServices = helper.find(services, {longname: longname});
+        if (myServices.length) {
+            generate('Service: ' + myServices[0].name, myServices, helper.longnameToUrl[longname]);
+        }
+
+        var myProviders = helper.find(providers, {longname: longname});
+        if (myProviders.length) {
+            generate('Provider: ' + myProviders[0].name, myProviders, helper.longnameToUrl[longname]);
+        }
+
+        var myFactories = helper.find(factories, {longname: longname});
+        if (myFactories.length) {
+            generate('Factory: ' + myFactories[0].name, myFactories, helper.longnameToUrl[longname]);
+        }
+
+        var myFilters = helper.find(filters, {longname: longname});
+        if (myFilters.length) {
+            generate('Filter: ' + myFilters[0].name, myFilters, helper.longnameToUrl[longname]);
+        }
+
+        var myComponents = helper.find(components, {longname: longname});
+        if (myComponents.length) {
+            generate('Component: ' + myComponents[0].name, myComponents, helper.longnameToUrl[longname]);
+        }
+
+        var myControllers = helper.find(controllers, {longname: longname});
+        if (myControllers.length) {
+            generate('Controller: ' + myControllers[0].name, myControllers, helper.longnameToUrl[longname]);
+        }
+
     });
 
     // TODO: move the tutorial functions to templateHelper.js
