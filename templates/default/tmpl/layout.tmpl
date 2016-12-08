@@ -28,7 +28,7 @@
 
 <footer>
     <?js if(env.conf.templates && env.conf.templates.default && env.conf.templates.default.copyright) { ?>
-    <?= env.conf.templates.default.copyright ?>
+    <?js= env.conf.templates.default.copyright ?>
     <?js } ?>
     <?js if(env.conf.templates && env.conf.templates.default && env.conf.templates.default.includeDate !== false) { ?> on <?js= (new Date()) ?><?js } ?>
 </footer>
