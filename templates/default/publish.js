@@ -350,19 +350,21 @@ function buildNav(members) {
     nav += buildMemberNav(members.modules, 'Modules', {}, linkto);
     nav += buildMemberNav(members.externals, 'Externals', seen, linktoExternal);
     nav += buildMemberNav(members.classes, 'Classes', seen, linkto);
+
+    nav += buildMemberNav(members.services, 'Services', seen, linkto);
+    nav += buildMemberNav(members.providers, 'Providers', seen, linkto);
+    nav += buildMemberNav(members.factories, 'Factories', seen, linkto);
+    nav += buildMemberNav(members.components, 'Components', seen, linkto);
+    nav += buildMemberNav(members.controllers, 'Controllers', seen, linkto);
+    nav += buildMemberNav(members.directives, 'Directives', seen, linkto);
+    nav += buildMemberNav(members.filters, 'Filters', seen, linkto);
+
     nav += buildMemberNav(members.events, 'Events', seen, linkto);
     nav += buildMemberNav(members.namespaces, 'Namespaces', seen, linkto);
     nav += buildMemberNav(members.mixins, 'Mixins', seen, linkto);
     nav += buildMemberNav(members.tutorials, 'Tutorials', seenTutorials, linktoTutorial);
     nav += buildMemberNav(members.interfaces, 'Interfaces', seen, linkto);
 
-    nav += buildMemberNav(members.directives, 'Directives', seen, linkto);
-    nav += buildMemberNav(members.services, 'Services', seen, linkto);
-    nav += buildMemberNav(members.providers, 'Providers', seen, linkto);
-    nav += buildMemberNav(members.factories, 'Factories', seen, linkto);
-    nav += buildMemberNav(members.filters, 'Filters', seen, linkto);
-    nav += buildMemberNav(members.components, 'Components', seen, linkto);
-    nav += buildMemberNav(members.controllers, 'Controllers', seen, linkto);
 
     if (members.globals.length) {
         var globalNav = '';
