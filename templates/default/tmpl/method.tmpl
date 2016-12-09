@@ -1,16 +1,26 @@
 <?js
 var data = obj;
 var self = this;
+var debug = false;
+var specialItems = ['class', 'service','provider','factory','filter','directive'];
 ?>
 <?js if (data.kind !== 'module') { ?>
     <?js if (data.kind === 'class' && data.classdesc) { ?>
     <h2>Constructor</h2>
     <?js } ?>
 
-    <h4 class="name" id="<?js= id ?>"><?js= data.attribs + (kind === 'class' ? 'new ' : '') +
-    name + (data.signature || '') ?></h4>
+    <?js if (debug === true) { ?>
+    <span>DEBUG - kind : <?js= data.kind ?></span><br>
+    <span>DEBUG - signature : <?js= data.signature ?></span><br>
+    <span>DEBUG - attribs : <?js= data.attribs ?></span><br>
+    <span>DEBUG - name : <?js= name ?></span><br>
+    <?js } ?>
 
-    <?js if (data.summary && data.kind !== 'function') { ?>
+    <?js if (specialItems.indexOf(data.kind) < 0) { ?>
+    <h3 class="name" id="<?js= id ?>"><?js= name + (data.signature || '') ?></h3>
+    <?js } ?>
+
+    <?js if (data.summary && specialItems.indexOf(data.kind) < 0 && data.kind !== 'function') { ?>
     <p class="summary"><?js= summary ?></p>
     <?js } ?>
 <?js } ?>
