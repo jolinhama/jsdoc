@@ -12,3 +12,6 @@ out/
 
 # Dotfile detritus
 .DS_Store
+
+# Test files
+test2/
