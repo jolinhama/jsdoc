@@ -17,7 +17,8 @@ var specialItems = ['class', 'service','provider','factory','filter','directive'
     <?js } ?>
 
     <?js if (specialItems.indexOf(data.kind) < 0) { ?>
-    <h3 class="name" id="<?js= id ?>"><?js= name + (data.signature || '') ?></h3>
+    <hr/>
+    <h3 class="methodName" id="<?js= id ?>"><?js= name + (data.signature || '') ?></h3>
     <?js } ?>
 
     <?js if (data.summary && specialItems.indexOf(data.kind) < 0 && data.kind !== 'function') { ?>
@@ -99,15 +100,16 @@ var specialItems = ['class', 'service','provider','factory','filter','directive'
 
 <?js if (data.returns && returns.length) { ?>
 <h5>Returns:</h5>
-<?js if (returns.length > 1) { ?><ul><?js
-    returns.forEach(function(r) { ?>
+<?js if (returns.length > 1) { ?>
+<ul>
+    <?js returns.forEach(function(r) { ?>
         <li><?js= self.partial('returns.tmpl', r) ?></li>
-    <?js });
-?></ul><?js } else {
-    returns.forEach(function(r) { ?>
-        <?js= self.partial('returns.tmpl', r) ?>
-    <?js });
-} } ?>
+    <?js });?>
+</ul>
+<?js } else { ?>
+        <?js= self.partial('return.tmpl', returns[0]) ?>
+<?js } ?>
+<?js } ?>
 
 <?js if (data.examples && examples.length) { ?>
     <h5>Example<?js= examples.length > 1? 's':'' ?></h5>

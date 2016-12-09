@@ -235,10 +235,12 @@
         var methods = self.find({kind: 'function', memberof: isGlobalPage ? {isUndefined: true} : doc.longname});
         if (methods && methods.length && methods.forEach) {
     ?>
+        <br>
         <h3 class="subsection-title">Methods</h3>
 
         <?js methods.forEach(function(m) { ?>
             <?js= self.partial('method.tmpl', m) ?>
+            <br>
         <?js }); ?>
     <?js } ?>
 
